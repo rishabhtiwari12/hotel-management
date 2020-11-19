@@ -1,0 +1,71 @@
+h1 {
+    font-family: 'EB Garamond', serif;
+    margin-left: 100px;
+}
+.nav {
+    height: 100px;
+    background-color: cadetblue;
+}
+.lin {
+    list-style: none;
+    margin-left: 65px;
+    height: 70px;
+    
+    
+    
+}
+.head {
+    color: coral;
+    text-decoration: none;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 10px;
+    text-align: center;
+    left: 150px;
+}
+
+.main {
+    margin-top: 80px;
+    display: inline-block;
+    
+}
+.anc  {
+    width: 10%;
+    background-color: whitesmoke;
+    border-bottom: gray solid;
+    margin-left: 50px;
+    text-align: center;
+    
+
+    
+    
+}
+.head:hover{
+    color: black;
+}
+.info {
+    height: 400px;
+    width: 30%;
+    border: 1px solid black;
+    display: inline-block;
+    margin-left: 250px;
+    
+    
+}
+h4 {
+    margin-left: 20px;
+    
+}
+#eg {
+    position: absolute;
+    margin-top: 80px;
+}
+p {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.foot {
+    height: 150px;
+    background-color: cyan;
+    margin-top: 150px;
+}
