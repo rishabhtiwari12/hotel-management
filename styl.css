@@ -1,0 +1,24 @@
+.nav{
+    height: 100px;
+    background-color: cyan;
+}
+
+ 
+.head {
+    font-family: 'EB Garamond', serif;
+    margin-left: 100px;
+}
+.sec {
+    font-family: 'Montserrat', sans-serif;
+}
+.box{
+    
+    height: 2600px;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.footer{
+    height: 200px;
+    background-color: darkkhaki;
+}
